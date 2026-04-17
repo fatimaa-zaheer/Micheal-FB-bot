@@ -1,12 +1,12 @@
 {
   "scheduling": {
-    "delayBetweenPostsMs": 30,
+    "delayBetweenPostsMs": 21600000,
     "postsPerDay": 12,
     "enabled": true,
     "mode": "interval"
   },
   "notes": {
-    "delayBetweenPostsMs": "Delay between posts in milliseconds. 14400000 = 4 hours, 10800000 = 3 hours",
+    "delayBetweenPostsMs": "Delay between posts in milliseconds. 21600000 = 6 hours, 14400000 = 4 hours, 10800000 = 3 hours",
     "postsPerDay": "Max posts to post in a 24-hour period (0 = unlimited)",
     "enabled": "Set to false to disable scheduling and only post from POST_TEXT env var",
     "mode": "interval - posts with delay between them; cron - use specific times (not yet implemented)"
