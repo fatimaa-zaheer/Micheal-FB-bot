@@ -40,7 +40,6 @@ import {
   hasUserCookie,
   waitForEnter,
 } from './session.js';
-import { closeLogFile } from './logger.js';
 
 const timers = new Map();
 
@@ -921,11 +920,9 @@ async function main() {
   else await sleep(15000);
 
   await browser.close();
-  await closeLogFile();
 }
 
-main().catch(async (err) => {
+main().catch((err) => {
   console.error(err);
-  await closeLogFile();
   process.exit(1);
 });

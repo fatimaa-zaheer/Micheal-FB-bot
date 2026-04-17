@@ -1,7 +1,0 @@
-[2026-04-16T20:08:00.966Z] [scheduler] Loaded 12 posts from posts.json
-[2026-04-16T20:08:00.966Z] 🔄 [scheduler] RESET_POSTS is enabled - starting from post 1
-[2026-04-16T20:08:00.967Z] [scheduler] Found next post: Post #1
-[2026-04-16T20:08:20.625Z] [captcha] Checking for CAPTCHA…
-[2026-04-16T20:08:21.211Z] [session] Attempting auto-login...
-[2026-04-16T20:08:21.212Z] [login] ====== AUTO-LOGIN ATTEMPT ======
-[2026-04-16T20:08:21.219Z] [login] Already logged in.

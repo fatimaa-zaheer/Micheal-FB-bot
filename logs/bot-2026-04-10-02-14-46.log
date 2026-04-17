@@ -1,8 +1,0 @@
-[2026-04-10T21:14:46.823Z] [scheduler] Loaded 12 posts from posts.json
-[2026-04-10T21:14:46.824Z] 🔄 [scheduler] RESET_POSTS is enabled - starting from post 1
-[2026-04-10T21:14:46.824Z] [scheduler] Found next post: Post #1
-[2026-04-10T21:15:01.208Z] [captcha] Checking for CAPTCHA…
-[2026-04-10T21:15:02.056Z] [session] Attempting auto-login...
-[2026-04-10T21:15:02.056Z] [login] ====== AUTO-LOGIN ATTEMPT ======
-[2026-04-10T21:15:02.061Z] [login] ====== STEP 1: Looking for Email Field ======
-[2026-04-10T21:15:03.021Z] ERROR: {}

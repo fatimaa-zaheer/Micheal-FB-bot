@@ -1,7 +1,0 @@
-[2026-04-09T18:42:11.986Z] [scheduler] Loaded 12 posts from posts.json
-[2026-04-09T18:42:11.987Z] 🔄 [scheduler] RESET_POSTS is enabled - starting from post 1
-[2026-04-09T18:42:11.988Z] [scheduler] Found next post to post: Post #1
-[2026-04-09T18:42:26.156Z] [captcha] Checking for CAPTCHA…
-[2026-04-09T18:42:26.674Z] 
->>> Log in to Facebook in the browser window. This script will continue when your session is active.
-
